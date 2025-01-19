@@ -44,12 +44,6 @@ The application will display success messages and updated balances.
 Inspired by basic banking operations.
 Thanks to the Python community for their resources and support.
 
-
-### Instructions for Use:
-1. **Replace `yourusername`**: Make sure to replace `yourusername` in the clone URL with your actual GitHub username.
-2. **Add License**: If you have a specific license for your project, make sure to include it in the repository and link to it in the README.
-3. **Additional Sections**: You can add more sections as needed, such as "Testing", "Known Issues", or "Future Improvements".
-
 ### Uploading to GitHub:
 1. Create a new repository on GitHub.
 2. Clone the repository to your local machine.
